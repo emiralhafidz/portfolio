@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/emiralhafidz/static/css/main.59cf11fa.css",
+    "main.js": "/emiralhafidz/static/js/main.5939d8d5.js",
+    "static/js/787.b44780dc.chunk.js": "/emiralhafidz/static/js/787.b44780dc.chunk.js",
+    "static/media/project1.jpg": "/emiralhafidz/static/media/project1.968dd57297d7b5b469fe.jpg",
+    "static/media/project2.jpg": "/emiralhafidz/static/media/project2.bb317eb8ad7b03019b6e.jpg",
+    "index.html": "/emiralhafidz/index.html",
+    "main.59cf11fa.css.map": "/emiralhafidz/static/css/main.59cf11fa.css.map",
+    "main.5939d8d5.js.map": "/emiralhafidz/static/js/main.5939d8d5.js.map",
+    "787.b44780dc.chunk.js.map": "/emiralhafidz/static/js/787.b44780dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59cf11fa.css",
+    "static/js/main.5939d8d5.js"
+  ]
+}
